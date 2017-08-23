@@ -1,2 +1,1 @@
-goodbye sun
-goodmorning moon
+goodbye world
